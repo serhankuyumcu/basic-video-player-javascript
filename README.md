@@ -1,17 +1,29 @@
-# basic-video-player-javascript
 
-Techology JavaScript
 
-HTML5 video
 
-User Stories Play/pause on clicking button or screen and pressing space bar.
+<a href="
 
-Scrub + progress bar.
 
-Skip Forward/backwards.
+<img src="https://media.giphy.com/media/vFKqnCdLPNOKc/giphy.gif" width="200" height="200" />
 
-Volume and speed controls + Display value.
+<h1> Techology </h1>
 
-Fullscreen toggle button + double click.
+<li> JavaScript </li>
 
-Part of Wes Bos #JavaScript30 projects. A custom HTML5 video player
+<li> HTML5 Video </li>
+
+
+<h1> User Stories </h1>
+
+<li> Play/pause on clicking button or screen and pressing space bar.</li>
+
+<li> Scrub + Progress bar.</li>
+
+<li> Skip Forward/Backwards.</li>
+
+<li> Volume and speed controls + Display value. </li>
+
+<li> Fullscreen toggle button + double click. </li>
+
+<li> Part of Wes Bos #JavaScript30 projects. A custom HTML5 video player.</li>
+
